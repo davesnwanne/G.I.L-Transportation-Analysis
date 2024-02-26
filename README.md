@@ -1,4 +1,17 @@
-G.I.L TRANSPORT INSIGHTS
+
+### Data Sources
+G.I.L Transportation Analysis: the primary datasets used for this analysis are the "Modified_Routes.csv"file,"Modified_Buses.csv"file,"Modified_Demographics.csv","Modified_Ridership.csv"files.
+ 
+### Exploratory Data Analysis
+
+-	Evaluate Peakhour of business and down hour of the transport line
+-	Analyze The Busiest Route and less busy Route
+-	Calculate the Monthly Distribution
+-	Calculate the total number of Passengers that used the transport line
+-	Calculate the Total Revenue
+-	Get the Average passengers per Trip
+  
+### G.I.L TRANSPORT INSIGHTS
 -  G.I.L had a total of 6587 documented passengers 
 -  An average of 32.94 passengers per trip
 -  G.I.L transport company buses made a total of 200 trips
